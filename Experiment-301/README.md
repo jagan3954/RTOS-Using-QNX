@@ -28,7 +28,6 @@ Design a **QNX server and client program** where:
 ---
 
 # Algorithm
-* Ensure that the header file: `msg_def.h` is created/copied for both the projects (server and client).
 
 ## Server Algorithm
 
@@ -207,6 +206,7 @@ int main(int argc, char* argv[])
     return EXIT_SUCCESS;
 }
 ```
+
 ---
 ## Header file (msg_def.h)
 
@@ -248,6 +248,11 @@ MsgSend return status: 0
 ---
 
 # Output
+### Server SIde
+<img width="1045" height="288" alt="Screenshot 2026-03-13 113039" src="https://github.com/user-attachments/assets/3556434b-bc7c-4695-9239-638b4698d46b" />
+
+### Client Side
+<img width="1020" height="330" alt="image" src="https://github.com/user-attachments/assets/1b6a2e4a-0fbd-4d29-8326-845b987da2ea" /> 
 
 ---
 
