@@ -1,3 +1,4 @@
+
 # Experiment 402: Repeating Timer using Pulse Messages in QNX
 
 ## Aim
@@ -169,6 +170,7 @@ got our pulse, the timer must have expired
 ---
 
 # Output
+<img width="1076" height="436" alt="image" src="https://github.com/user-attachments/assets/e4008cf2-0876-4d46-9368-3acb2d2b1de7" />
 
 
 ---
